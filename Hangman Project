@@ -119,6 +119,7 @@ def hangman():
         elif count == 5:
             time.sleep(1)
             print("   ___ \n"
+            
                   "  |     | \n"
                   "  |     |\n"
                   "  |     | \n"
